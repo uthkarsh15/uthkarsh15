@@ -191,6 +191,12 @@ const uthkarsh = {
 ## 📈 Contribution Activity
 
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=uthkarsh15&theme=tokyonight&column=7" alt="uthkarsh15 github trophies" />
+  </a>
+</p>
+
+<p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=uthkarsh15&theme=tokyo-night&hide_border=true&area=true"
     alt="Contribution Graph"
